@@ -33,8 +33,7 @@
     "screenshot.gif"
   ],
   "dependencies": {
-    "jquery": ">= 2.1.1",
-    "jquery-ui": ">= 1.11.0"
+    "jquery": ">= 2.1.1"
   },
   "devDependencies": {
   }
