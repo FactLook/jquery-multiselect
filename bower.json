@@ -2,7 +2,7 @@
   "name": "jQuery-UI-MultiSelect-Widget",
   "description": "The pinnacle in multiselect. MultiSelect progessively enhances an ordinary multiple select control into elegant drop down list of checkboxes, stylable with ThemeRoller.",
   "version": "1.15.0",
-  "homepage": "https://github.com/GerHobbelt/jquery-multiselect",
+  "homepage": "https://github.com/FactLook/jquery-multiselect",
   "authors": [
     "Eric Hynds <eric@hynds.net>"
   ],
